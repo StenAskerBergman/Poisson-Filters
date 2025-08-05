@@ -1,5 +1,5 @@
 # Compact Poisson Filters for Fast Fluid Simulation
-## by ShahinRab ubisoft-laforge
+## by ShahinRab & Ubisoft Laforge
 <img src="docs/source/images/cube_field.gif" width=750></img>
 <img src="docs/source/images/teaser_filters.png" width=750></img>
 
